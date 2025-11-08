@@ -1,0 +1,19 @@
+{
+    "furniture": [
+        {"id": 1, "name": "chair", "category": "furniture"},
+        {"id": 2, "name": "table", "category": "furniture"},
+        {"id": 3, "name": "lamp", "category": "furniture"},
+        {"id": 4, "name": "cabinet", "category": "furniture"},
+        {"id": 5, "name": "ottoman", "category": "furniture"}
+    ],
+    
+    "clothing": [
+        {"id": 1, "name": "shirt", "category": "clothing"},
+        {"id": 2, "name": "pants", "category": "clothing"},
+        {"id": 3, "name": "socks", "category": "clothing"},
+        {"id": 4, "name": "skirt", "category": "clothing"},
+        {"id": 5, "name": "jacket", "category": "clothing"}
+    ]
+}
+
+
